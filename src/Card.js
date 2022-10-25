@@ -13,6 +13,7 @@ export default function Card() {
         <img src={pic1} className="pic-inside-1" />
         <img src={pic2} className="pic-inside-2" />
         <img src={pic7} className="pic-inside-7" />
+        <p className="notice">Nhớ trỏ chuột để xem nội dung nhe...</p>
 
         <h3 className="happy">Thiệp mừng handmade nè ^^</h3>
         <div className="balloons">
